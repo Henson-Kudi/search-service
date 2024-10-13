@@ -1,0 +1,16 @@
+{
+  "consumers": [
+    "productUpdated",
+    "productCreated",
+    "productDeleted",
+    "productsDeleted",
+    "brandUpdated",
+    "brandCreated",
+    "brandDeleted",
+    "brandsDeleted",
+    "categoryUpdated",
+    "categoryCreated",
+    "categoryDeleted",
+    "categoriesDeleted"
+  ]
+}
